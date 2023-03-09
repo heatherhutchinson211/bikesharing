@@ -19,7 +19,7 @@ For my final challenge graph, I created a chart showing user trips by gender.
 ![user](https://github.com/heatherhutchinson211/bikesharing/blob/main/Screenshot%202023-03-08%20at%209.13.28%20PM.png)
 
 I also included two additional graphs showing peak hours of ride time in August, as well as averge trip duration based on birth year, respectively. 
-![duration]()
+![duration](https://github.com/heatherhutchinson211/bikesharing/blob/main/Screenshot%202023-03-08%20at%209.13.22%20PM.png)
 ![birthyear]()
 
 ## Summary
