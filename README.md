@@ -10,7 +10,7 @@ The next graph shows similar results, but it is further filtered by gender.  I h
 ![gender](https://github.com/heatherhutchinson211/bikesharing/blob/main/Screenshot%202023-03-08%20at%209.13.53%20PM.png)
 
 Next, I created a heat map showing trips by weekday, per hour.
-![trips]()
+![trips](https://github.com/heatherhutchinson211/bikesharing/blob/main/Screenshot%202023-03-08%20at%209.13.39%20PM.png)
 
 This was then further filtered by gender.
 ![trips data]()
