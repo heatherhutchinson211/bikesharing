@@ -13,7 +13,7 @@ Next, I created a heat map showing trips by weekday, per hour.
 ![trips](https://github.com/heatherhutchinson211/bikesharing/blob/main/Screenshot%202023-03-08%20at%209.13.39%20PM.png)
 
 This was then further filtered by gender.
-![trips data]()
+![trips data](https://github.com/heatherhutchinson211/bikesharing/blob/main/Screenshot%202023-03-08%20at%209.13.34%20PM.png)
 
 For my final challenge graph, I created a chart showing user trips by gender.  
 ![user]()
