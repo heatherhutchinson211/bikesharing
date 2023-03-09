@@ -20,7 +20,7 @@ For my final challenge graph, I created a chart showing user trips by gender.
 
 I also included two additional graphs showing peak hours of ride time in August, as well as averge trip duration based on birth year, respectively. 
 ![duration](https://github.com/heatherhutchinson211/bikesharing/blob/main/Screenshot%202023-03-08%20at%209.13.22%20PM.png)
-![birthyear]()
+![birthyear](https://github.com/heatherhutchinson211/bikesharing/blob/main/Screenshot%202023-03-08%20at%209.13.11%20PM.png)
 
 ## Summary
 After reviewing the data, it seems as if the number of rides increase around 5-7pm.  It is also apparent that trip duration gets slightly longer for younger individuals.  Males seem to participate in more rides than females across the board.  
