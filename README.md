@@ -7,7 +7,7 @@ For the challenge, the first graph I created was one showin gcheckou times per u
 ![checkout](https://github.com/heatherhutchinson211/bikesharing/blob/main/Screenshot%202023-03-08%20at%209.14.00%20PM.png)
 
 The next graph shows similar results, but it is further filtered by gender.  I had some difficulties with my gender data; therefore, each graph filtered by data seems to be a little off. 
-![gender]()
+![gender](https://github.com/heatherhutchinson211/bikesharing/blob/main/Screenshot%202023-03-08%20at%209.13.53%20PM.png)
 
 Next, I created a heat map showing trips by weekday, per hour.
 ![trips]()
