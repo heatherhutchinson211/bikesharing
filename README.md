@@ -22,6 +22,10 @@ I also included two additional graphs showing peak hours of ride time in August,
 ![duration](https://github.com/heatherhutchinson211/bikesharing/blob/main/Screenshot%202023-03-08%20at%209.13.22%20PM.png)
 ![birthyear](https://github.com/heatherhutchinson211/bikesharing/blob/main/Screenshot%202023-03-08%20at%209.13.11%20PM.png)
 
+
+Finally, here is the link to my tableau dashboard:
+[link to dashboard](LINK GOES HERE)
+
 ## Summary
 After reviewing the data, it seems as if the number of rides increase around 5-7pm.  It is also apparent that trip duration gets slightly longer for younger individuals.  Males seem to participate in more rides than females across the board.  
 
